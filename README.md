@@ -1,6 +1,6 @@
 # Chichek - Herbal Tea
 
-![Chichek Web Sitesi Mockup](mockup.jpg)
+![Chichek Web Sitesi Mockup](MOCKUP.png)
 
 ##  Proje Hakkında
 
